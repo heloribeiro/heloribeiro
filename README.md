@@ -11,7 +11,6 @@
 <div style="display: inline_block"> <br>
   <img align="center" alt="Helo-Java" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Helo-Cucumber" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
-  <img align="center" alt="Helo-GitHub" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Helo-GitLab" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
   <img align="center" alt="Helo-Jira" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
 </div>
