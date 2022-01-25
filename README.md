@@ -1,16 +1,27 @@
-### Hi there 👋
+### Oii, Eu sou a Heloisa Ribeiro 👋👩🏽
 
-<!--
-**heloribeiro/heloribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-💻 Atualmente trabalho como freelance, sou Analista de Teste/QA na LinkLaser Techno Quality
 
-Here are some ideas to get you started:
+<div>
+  <a ref='https://github.com/heloribeiro'>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heloribeiro&show_icons=true&theme=merko&count_private=true">    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=heloribeiro&layout=compact&langs_count=8&theme=merko">
+</div>
+  
+<div style="display: inline_block"> <br>
+  <img align="center" alt="Helo-Java" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Helo-Cucumber" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
+  <img align="center" alt="Helo-GitHub" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Helo-GitLab" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
+  <img align="center" alt="Helo-Jira" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
+</div>
+  
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://www.linkedin.com/in/heloisa-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href=" " target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
+</div>
+  
+![Snake animation](https://github.com/heloribeiro/heloribeiro/blob/output/github-contribution-grid-snake.svg)
+
