@@ -1,6 +1,6 @@
 ### Oii, Eu sou a Heloisa Ribeiro 👋👩🏽
 
--💻 Atualmente trabalho como freelance, sou Analista de Teste/QA na LinkLaser Techno Quality
+-💻 Atualmente trabalho como QA Tester na ClinicaRX
 
 <div>
   <a ref='https://github.com/heloribeiro'>
