@@ -1,6 +1,6 @@
 ### Oii, Eu sou a Heloisa Ribeiro 👋👩🏽
 
--💻 Atualmente trabalho como QA Tester na ClinicaRX
+-💻 Atualmente trabalho como Analista de Teste na Agrosátelite
 
 <div>
   <a ref='https://github.com/heloribeiro'>
