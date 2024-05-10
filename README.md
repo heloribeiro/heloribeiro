@@ -1,6 +1,6 @@
 ### Oii, Eu sou a Heloisa Ribeiro 👋👩🏽
 
--💻 Atualmente trabalho como Analista de Teste Jr na Agrosátelite
+-💻 Atualmente trabalho como Analista de Teste Jr na Serasa Experian
 
 <div>
   <a ref='https://github.com/heloribeiro'>
